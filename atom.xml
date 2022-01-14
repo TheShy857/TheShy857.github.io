@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://theshy857.github.io/</id>
-    <title>日你妈的博客</title>
-    <updated>2022-01-14T14:29:21.524Z</updated>
+    <title>文文哥哥的博客</title>
+    <updated>2022-01-14T14:33:23.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://theshy857.github.io/"/>
     <link rel="self" href="https://theshy857.github.io/atom.xml"/>
     <subtitle>你瞅这干啥！</subtitle>
     <logo>https://theshy857.github.io/images/avatar.png</logo>
     <icon>https://theshy857.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 日你妈的博客</rights>
+    <rights>All rights reserved 2022, 文文哥哥的博客</rights>
     <entry>
         <title type="html"><![CDATA[我的第一篇文章]]></title>
         <id>https://theshy857.github.io/post/wo-de-di-yi-pian-wen-zhang/</id>
@@ -25,10 +25,10 @@
         <link href="https://theshy857.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <summary type="html"><![CDATA[<p>👏  <img src="https://theshy857.github.io//post-images/1642170682812.jpg" alt="" loading="lazy">欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+        <content type="html"><![CDATA[<p>👏  <img src="https://theshy857.github.io//post-images/1642170682812.jpg" alt="" loading="lazy">欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
